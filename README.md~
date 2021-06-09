@@ -1,7 +1,5 @@
 # GCE-GNN
 
-基于GCE-GNN的改进
-
 ## Code
 
 This is the source code for SIGIR 2020 Paper: _Global Context Enhanced Graph Neural Networks for Session-based Recommendation_.
